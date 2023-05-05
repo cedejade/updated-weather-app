@@ -1,0 +1,26 @@
+body {
+  border: 1px solid grey;
+}
+
+.local-cities {
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+  color: navy;
+  font-size: 25px;
+  text-decoration: underline;
+  background-color: rgb(240, 233, 233, 0.6);
+}
+.row {
+  display: block;
+}
+.row {
+  display: flex;
+}
+.week-days {
+  color: blue;
+}
+.hlc {
+  color: purple;
+  font-size: 20px;
+}
